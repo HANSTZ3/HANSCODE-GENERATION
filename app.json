@@ -1,0 +1,22 @@
+{
+    "name": "HANS Session Generator",
+    "description": "I'm Web Session Generator by hans Me hans tech",
+    "logo": "",
+    "repository": "https://github.com/HANSTZ3/HANS-MD",
+    "keywords": ["@Xcelsama"],
+    "success_url": "/", 
+    "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
+    "env": {      
+      "PORT": {
+        "description": "Port for web app.4000,5000,3000... any!",
+        "value": "5000",
+        "required": false 
+      },
+      "MESSAGE": {
+        "description": "",
+        "value": "",
+        "required": false 
+      }
+    }   
+
+}
