@@ -20,7 +20,7 @@
 
 Now Deploy
     <br>
-<a href='https://dashboard.heroku.com/new?template=https://github.com/HANSTZ/CODE-GENERATION' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=black'/>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/HANSTZ3/CODE-GENERATION' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=black'/>
 
 
  <a href="https://github.com/HANSTZ3"><img src="https://github.com/HANSTZ3.png" width="250" height="250" alt="Cod3Uchiha"/></a>
