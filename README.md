@@ -16,11 +16,11 @@
 
 [`ℹ️Contact Owner`](https://wa.me/255756530143?text=👋+bro+I+want+your+help+please🙏)
 
-[!`FORK KINGFREDIE`](https://github.com/HANSTZ3/CODE-GENERATION/fork) 
+[!`FORK HANSTECH`](https://github.com/HANSTZ3/CODE-GENERATION/fork) 
 
 Now Deploy
     <br>
-<a href='https://dashboard.heroku.com/new?template=https://github.com/HANSTZ3/HANSCODE-GENERATIO/main' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=black'/>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/HANSTZ3/HANSCODE-GENERATIO' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=black'/>
 
 
  <a href="https://github.com/HANSTZ3"><img src="https://github.com/HANSTZ3.png" width="250" height="250" alt="Cod3Uchiha"/></a>
